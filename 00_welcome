@@ -1,0 +1,5 @@
+#Level 0:
+cd 00_welcome
+ls
+cat README.md
+The password shall be found there
